@@ -11,7 +11,7 @@ import Footer from './components/Footer';
 
 function App() {
   useEffect(() => {
-    document.title = 'Doculan+ | Document Management & E-Signature Solution';
+    document.title = 'Doculan | Document Management & E-Signature Solution';
     
     // Smooth scrolling for anchor links
     document.querySelectorAll('a[href^="#"]').forEach(anchor => {

@@ -69,7 +69,7 @@ const Screenshots: React.FC = () => {
                 <div className="w-3 h-3 rounded-full bg-green-500"></div>
               </div>
               <div className="mx-auto bg-white rounded-full h-5 w-1/2 flex items-center justify-center text-xs text-gray-500">
-                docusignplus.com/{activeTab === 'document' ? 'documents' : activeTab === 'signature' ? 'signatures' : 'forms'}
+                doculan.ai/{activeTab === 'document' ? 'documents' : activeTab === 'signature' ? 'signatures' : 'forms'}
               </div>
             </div>
             

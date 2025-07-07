@@ -109,7 +109,7 @@ const Footer: React.FC = () => {
         {/* Bottom Footer */}
         <div className="pt-8 border-t border-gray-800 flex flex-col md:flex-row justify-between items-center">
           <p className="text-gray-500 text-sm mb-4 md:mb-0">
-            &copy; {new Date().getFullYear()} DocuSign+. All rights reserved.
+            &copy; {new Date().getFullYear()} Doculan. All rights reserved.
           </p>
           <div className="flex space-x-6 text-sm text-gray-500">
             <a href="#" className="hover:text-gray-300 transition-colors">Privacy Policy</a>
