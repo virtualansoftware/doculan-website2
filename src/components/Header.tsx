@@ -40,8 +40,8 @@ const Header: React.FC = () => {
           <a href="#testimonials" className="text-gray-700 hover:text-blue-600 transition-colors">Testimonials</a>
           <a href="#faq" className="text-gray-700 hover:text-blue-600 transition-colors">FAQ</a>
           <a href="#about" className="text-gray-700 hover:text-blue-600 transition-colors">About</a>
-          <Button variant="secondary" size="sm">Log in</Button>
-          <Button variant="primary" size="sm">Sign up</Button>
+          <Button onClick={() => window.location.href = "https://app.doculan.ai/login"}  variant="secondary" size="sm"> Log in </Button>
+          <Button onClick={() => window.location.href = "https://app.doculan.ai/register"}  variant="primary" size="sm"> Sign up </Button>
         </nav>
 
         {/* Mobile Navigation Button */}
