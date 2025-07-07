@@ -11,13 +11,13 @@ const AboutContact: React.FC = () => {
         {/* About Section */}
         <div>
           <SectionTitle 
-            title="About DocuSign+"
+            title="About Doculan"
             subtitle="Simplifying document workflows since 2020"
           />
           
           <div className="space-y-6 text-gray-600">
             <p>
-              DocuSign+ was founded with a simple mission: to eliminate paperwork hassles for businesses of all sizes. We believe that managing documents, collecting signatures, and gathering information should be simple, secure, and efficient.
+              Doculan was founded with a simple mission: to eliminate paperwork hassles for businesses of all sizes. We believe that managing documents, collecting signatures, and gathering information should be simple, secure, and efficient.
             </p>
             
             <p>
@@ -141,8 +141,8 @@ const AboutContact: React.FC = () => {
                   <Mail className="h-5 w-5 text-blue-600 mr-3 mt-0.5" />
                   <div>
                     <p className="text-gray-900">Email Us</p>
-                    <a href="mailto:support@docusignplus.com" className="text-blue-600 hover:underline">
-                      support@docusignplus.com
+                    <a href="mailto:support@doculan.ai" className="text-blue-600 hover:underline">
+                      support@doculan.ai
                     </a>
                   </div>
                 </div>
@@ -151,8 +151,8 @@ const AboutContact: React.FC = () => {
                   <Phone className="h-5 w-5 text-blue-600 mr-3 mt-0.5" />
                   <div>
                     <p className="text-gray-900">Call Us</p>
-                    <a href="tel:+1234567890" className="text-blue-600 hover:underline">
-                      +1 (234) 567-890
+                    <a href="tel:+1 773 657 5988" className="text-blue-600 hover:underline">
+                      +1 773 657 5988
                     </a>
                   </div>
                 </div>
@@ -162,8 +162,8 @@ const AboutContact: React.FC = () => {
                   <div>
                     <p className="text-gray-900">Visit Us</p>
                     <p className="text-gray-600">
-                      123 Tech Boulevard, Suite 456<br />
-                      San Francisco, CA 94105
+                      3333 Warrenville Rd, Suite 200<br />
+                      Lisle, IL 60532
                     </p>
                   </div>
                 </div>

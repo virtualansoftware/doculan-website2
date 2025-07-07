@@ -33,7 +33,7 @@ const Testimonial: React.FC<TestimonialProps> = ({
 const Testimonials: React.FC = () => {
   const testimonials = [
     {
-      quote: "DocuSign+ has completely transformed how we handle our contracts and agreements. The e-signature feature alone has cut our closing time by 75%.",
+      quote: "Doculan has completely transformed how we handle our contracts and agreements. The e-signature feature alone has cut our closing time by 75%.",
       author: "Sarah Johnson",
       position: "Operations Director",
       company: "Nexus Technologies",
@@ -45,7 +45,7 @@ const Testimonials: React.FC = () => {
       company: "Bright Innovations",
     },
     {
-      quote: "We've tried several document management solutions, but DocuSign+ stands out with its security features and ease of use. It's become essential to our workflow.",
+      quote: "We've tried several document management solutions, but Doculan stands out with its security features and ease of use. It's become essential to our workflow.",
       author: "Emily Rodriguez",
       position: "Legal Counsel",
       company: "Global Partners Ltd",

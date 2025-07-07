@@ -28,7 +28,7 @@ const Header: React.FC = () => {
       <div className="container mx-auto px-4 md:px-6 flex items-center justify-between">
         <div className="flex items-center">
           <FileText className="h-8 w-8 text-blue-600" />
-          <span className="ml-2 text-xl font-bold text-gray-900">DocuSign+</span>
+          <span className="ml-2 text-xl font-bold text-gray-900">Doculan</span>
         </div>
 
         {/* Desktop Navigation */}

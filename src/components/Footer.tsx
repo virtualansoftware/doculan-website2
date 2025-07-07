@@ -10,7 +10,7 @@ const Footer: React.FC = () => {
           <div>
             <div className="flex items-center mb-6">
               <FileText className="h-8 w-8 text-blue-400" />
-              <span className="ml-2 text-xl font-bold">DocuSign+</span>
+              <span className="ml-2 text-xl font-bold">Doculan</span>
             </div>
             <p className="text-gray-400 mb-6 leading-relaxed">
               Streamline your document workflow, collect signatures securely, and create custom forms—all in one powerful platform.
