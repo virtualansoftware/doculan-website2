@@ -8,9 +8,11 @@ const Footer: React.FC = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-12">
           {/* Company Info */}
           <div>
-            <div className="flex items-center mb-6">
-              <FileText className="h-8 w-8 text-blue-400" />
-              <span className="ml-2 text-xl font-bold">Doculan</span>
+            <div className="flex items-center gap-2">
+              <img src="/images/logo.png" alt="Doculan Logo" className="h-10 w-auto" />
+              <h4 className="text-2xl text-[#004080] select-none" style={{ fontFamily: 'Impact, sans-serif' }}>
+                Doculan 
+              </h4>
             </div>
             <p className="text-gray-400 mb-6 leading-relaxed">
               Streamline your document workflow, collect signatures securely, and create custom forms—all in one powerful platform.

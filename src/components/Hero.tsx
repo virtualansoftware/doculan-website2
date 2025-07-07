@@ -8,10 +8,6 @@ const Hero: React.FC = () => {
       <div className="container mx-auto px-4 md:px-6">
         <div className="flex flex-col md:flex-row items-center">
           <div className="md:w-1/2 mb-10 md:mb-0 md:pr-8">
-            <div className="flex items-center mb-4">
-              <FileText className="h-10 w-10 text-blue-600" />
-              <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold text-gray-900 ml-3">Doculan</h1>
-            </div>
             <h2 className="text-xl md:text-2xl lg:text-3xl font-bold text-gray-700 mb-6">
               Document Management & E-Signature Solution
             </h2>
