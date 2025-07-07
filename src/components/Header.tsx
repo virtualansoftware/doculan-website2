@@ -27,7 +27,7 @@ const Header: React.FC = () => {
     >
       <div className="container mx-auto px-4 md:px-6 flex items-center justify-between">
         <div className="flex items-center gap-2">
-            <img src="./images/logo.png" alt="Doculan Logo" className="h-10 w-auto" />
+            <img src="/images/logo.png" alt="Doculan Logo" className="h-10 w-auto" />
             <h4 className="text-2xl text-[#004080] select-none" style={{ fontFamily: 'Impact, sans-serif' }}>
                 Doculan 
             </h4>
